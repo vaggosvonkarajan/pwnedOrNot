@@ -1,0 +1,19 @@
+Name :Adding extra features
+About : This features will extended the functionalitites of the tool.
+
+Describe the solution you'd like 
+Hello all and congratulations on your great work. 
+Above I am describing some future solutions that you can work on in order to extend the capabilities of this amazing and useful tool. 
+am very glad that you made such a great tool and I am willing to help. Contact me if you need any further clarification.  
+My email is vaggos1k@gmail.com.
+
+I am asking fo the following upgrades:
+1.	Displaying the number of the addresses that found pwned:Displaying how many addresses of the examined ones where found pwned. 
+For example 45/50 of the analysed addresses where pwned
+
+2.	Exporting pwned results into a file:2.	Exporting into a file (CSV for example) the addresses that have been found pwned 
+along with the related data breached lists. For example, stranger@gmail.com found in Myspace, LinkedIn etc. for reference see
+https://github.com/michenriksen/hibp & https://github.com/m8r0wn/subscraper
+
+3.	Extra option to export the pwned and the not pwned addresses into a file: 3.	This could be useful to an analyst do the appropriate 
+correlations and at the end of the analysis to have a clear view of which addresses have been pwned and which not.
